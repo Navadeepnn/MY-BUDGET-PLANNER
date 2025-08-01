@@ -1,4 +1,4 @@
-# 💸 Expense Tracker Web App
+# 💸 MY BUDGET PLANNER
 
 A full-stack **MERN** (MongoDB, Express.js, React + Vite, Node.js) application for tracking your income and expenses. Designed with a **modern gradient UI**, includes **JWT-based authentication**, **global state management**, and interactive data visualizations.
 
